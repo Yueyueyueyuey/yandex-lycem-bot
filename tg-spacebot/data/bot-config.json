@@ -1,0 +1,14 @@
+{
+    "bot_token": "5327429077:AAG8FZ2yrpscAZPcJ8neQaN-2nnOgp6rEzM",
+    "owner": 776014011,
+    "redis": {
+        "host": "localhost",
+        "port": 6379,
+        "db_num": 0
+    },
+    "local_api_server": {
+        "enabled": false,
+        "logged_out": false,
+        "address": null
+    }
+}

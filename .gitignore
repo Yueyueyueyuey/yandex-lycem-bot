@@ -1,0 +1,10 @@
+.DS_Store
+.idea
+venv
+env
+/tg-launchbot/data
+/tg-launchbot/__pycache__
+tg-launchbot/error-logs
+.python-version
+tg-launchbot/dump.rdb
+.vscode/settings.json
